@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [https://fthabhishek-pandey.github.io/My-Portfolio/](https://fthabhishek-pandey.github.io/My-Portfolio/)
 - 📫 How to reach me **abhishek830564@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1I_tTIDernvgmQ6bug1D8AuwnyT0_dzvD/view?usp=sharing](https://drive.google.com/file/d/1I_tTIDernvgmQ6bug1D8AuwnyT0_dzvD/view?usp=sharing)
-- ⚡ Fun fact **At the end , Coding is easy and Logic is clear.**
+- ⚡ **Bhagwaan ko "मैं" Hasta hua Achha lagta hu.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-pandey-984110254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-pandey-984110254/" height="30" width="40" /></a>
