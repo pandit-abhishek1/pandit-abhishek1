@@ -21,7 +21,7 @@
 ### My coding Profile
   
 ### My Stats
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fThAbhishek-Pandey&theme=react" width="50%"  height="300px" /><a/>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fThAbhishek-Pandey&theme=react" width="50%" /><a/>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fThAbhishek-Pandey&layout=compact&theme=react" width="40%" height="30%"/></a>
 <div >
 <a href="http://www.github.com/fThAbhishek-Pandey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fThAbhishek-Pandey&theme=react" /></a>
