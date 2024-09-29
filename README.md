@@ -14,7 +14,7 @@
 - ⚡ Fun fact **Bhagwaan ko "मैं" Hasta hua Achha lagta hu.**
 
 - 👀 Find my [resume]()
-- 👀 Find my  [Portfolio](https://fthabhishek-pandey.github.io/My-Portfolio/)
+- 👀 View my [Portfolio](https://fthabhishek-pandey.github.io/My-Portfolio/)
 
 ### Connect with me
 
