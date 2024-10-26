@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **abhishek830564@gmail.com**
 
-- ⚡ Fun fact **Bhagwaan ko "मैं" Hasta hua Achha lagta hu.**
+- ⚡ **Bhagwaan ko "मैं" Hasta hua Achha lagta hu.**
 
-- 👀 Find my [resume]()
+- 👀 Find my [resume](https://drive.google.com/file/d/1LQYZdcsMtI36srqbYaUwLw0Fn2e3Rt9e/view?usp=sharing)
 - 👀 View my [Portfolio](https://fthabhishek-pandey.github.io/My-Portfolio/)
 
 ### Connect with me
