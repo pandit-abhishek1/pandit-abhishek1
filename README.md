@@ -7,25 +7,21 @@
 
 - 🌱 I’m currently learning **Machine Learning, backend software, and DevOps**
 
-- 📝 I regularly write articles on [medium]()
+- 📝 I regularly write articles on [medium](https://medium.com/@pandit-abhishek1)
 
 - 📫 How to reach me **abhishek830564@gmail.com**
 
-- ⚡ **Bhagwaan ko "मैं" Hasta hua Achha lagta hu.**
+- ⚡ **Sab Moh Maya hai.**
 
 - 👀 Find my [resume](https://drive.google.com/file/d/1LQYZdcsMtI36srqbYaUwLw0Fn2e3Rt9e/view?usp=sharing)
-- 👀 View my [Portfolio](https://fthabhishek-pandey.github.io/My-Portfolio/)
 
-### Connect with me
 
-### My coding Profile
-  
+
 ### My Stats
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fThAbhishek-Pandey&theme=react" /><a/>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fThAbhishek-Pandey&layout=compact&theme=react" /></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pandit-abhishek1&theme=react" /><a/>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandit-abhishek1&layout=compact&theme=react" /></a>
 <div >
 <a href="http://www.github.com/fThAbhishek-Pandey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fThAbhishek-Pandey&theme=react" /></a>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fThAbhishek-Pandey&show_icons=true&locale=en&theme=react" alt="fThAbhishek-Pandey"/>
 </div>
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fThAbhishek-Pandey&theme=react">
