@@ -24,5 +24,5 @@
 <a href="http://www.github.com/fThAbhishek-Pandey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fThAbhishek-Pandey&theme=react" /></a>
 </div>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fThAbhishek-Pandey&theme=react">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pandit-abhishek1&theme=react">
 
